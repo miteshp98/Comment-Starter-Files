@@ -1,30 +1,59 @@
+# Welcome to Codewell! 👋 Gradie Signup
 
-# Welcome to Codewell! 👋
-
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects.
 
 Free or paid, all templates are high quality and will make great portfolio pieces.
 
+### Overview
+
+### The Challenge
+
+Users should be able to:
+
+- View the optimal layout for the component depending on their device's screen size
+
 ### I've completed the challenge, now what?
 
-We recommend using one of these two websites to deploy your projects
+Hello Code Well team! I'm excited to submit my solution for the comment section challenge. This project allowed me to showcase my skills in creating a responsive and interactive comment section.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+Implemented a fully responsive design to ensure optimal viewing on various devices and screen sizes.
 
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+Gradient Background: Utilized gradient backgrounds to enhance visual appeal and add depth to the website.
 
+Positioning for Lines: Employed precise positioning techniques to create visually appealing lines or separators within the layout.
 
-### Submit your solution to Codewell
+Flexbox for Layout: Utilized Flexbox, a CSS layout model, to create flexible and efficient layouts, ensuring elements adapt seamlessly to different screen sizes and resolutions.
 
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
+Relative Units for Responsiveness: Implemented relative units such as percentages, em, or rem for various elements, ensuring responsiveness across different devices and screen sizes.
 
-### Join our community on Slack
+Technologies Used :-
 
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+- HTML5
+- CSS3(Flexbox)
 
+```css
+body {
+  background: conic-gradient(
+      from 135deg,
+      #fbaaf6,
+      #f7896f,
+      #ffba74,
+      #908ff7,
+      #fbaaf6
+    ) no-repeat;
+}
+```
+
+## Author
+
+- Website - [Mitesh Panchal](https://miteshp98.github.io/portfolio-website/)
+- Frontend Mentor - [@miteshp98](https://www.frontendmentor.io/profile/miteshp98)
+- Linkedin - [@Mitesh Panchal](https://www.linkedin.com/in/mitesh-panchal-356558126/)
 
 ### Fonts Used
 
 https://fonts.google.com/specimen/Rubik
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
